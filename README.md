@@ -3,7 +3,7 @@
 
 # Deeskord-crypt 
 
-Encryption for discord messages. For mine private purposes, should not being in use.
+Encryption for discord messages. For mine private purposes, should not be in use.
 ## How to install
 The easiest way and/or the fastest either is install [chrome extension](https://chrome.google.com/webstore/detail/deeskord-crypt/gfcopfgeodppjlojhjdadoheippnnnmf) (best option, dynamically loaded images/mp4/webm)
 - Other ways include:
